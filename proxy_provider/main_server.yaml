@@ -27,7 +27,7 @@ proxies:
     udp: true
   
   # Weekly
-  - name: ID Biznet - 03.08
+  - name: ID Biznet - 07.08
     server: id-lb.sshkit.org
     port: 443
     type: vmess
@@ -39,7 +39,7 @@ proxies:
     servername: gz0.googleusercontent.com
     network: ws
     ws-opts:
-      path: /sshkit/iekas/62e123783c91c/
+      path: /sshkit/jsjjs/62e68abdb0c51/
       headers:
         Host: gz0.googleusercontent.com
     udp: true
