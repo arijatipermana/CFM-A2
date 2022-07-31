@@ -61,7 +61,7 @@ proxies:
         Host: gz0.googleusercontent.com
     udp: true
     
-  - name: SG AMP - 03.08
+  - name: SG AMP - 07.08
     server: sg-atha.v2-ray.com
     port: 443
     type: vmess
@@ -73,7 +73,7 @@ proxies:
     servername: gz0.googleusercontent.com
     network: ws
     ws-opts:
-      path: /fastssh/laksde/62e123627a215/
+      path: /fastssh/jdhdb/62e689fc3c16d/
       headers:
         Host: gz0.googleusercontent.com
     udp: true
