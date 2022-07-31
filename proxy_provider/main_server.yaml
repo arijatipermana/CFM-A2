@@ -95,7 +95,7 @@ proxies:
         Host: gz0.googleusercontent.com
     udp: true
 
-  - name: SG OVH - 03.08
+  - name: SG OVH - 07.08
     server: sgv-2.openv2ray.com
     port: 443
     type: vmess
@@ -107,7 +107,7 @@ proxies:
     servername: gz0.googleusercontent.com
     network: ws
     ws-opts:
-      path: /u/opentunnel.net-klsa
+      path: /u/opentunnel.net-nsbsba
       headers:
         Host: gz0.googleusercontent.com
     udp: true
