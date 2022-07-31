@@ -78,7 +78,7 @@ proxies:
         Host: gz0.googleusercontent.com
     udp: true
 
-  - name: SG LINODE - 07.08
+  - name: SG LINODE OPTN - 07.08
     server: sgv-1.openv2ray.com
     port: 443
     type: vmess
@@ -93,6 +93,15 @@ proxies:
       path: /u/opentunnel.net-jzndbs
       headers:
         Host: gz0.googleusercontent.com
+    udp: true
+    
+  - name: SG LINODE HOWDY - 07.08
+    server: trojan3.udpgw.com
+    port: 443
+    type: trojan
+    password: 40b6c9a0-0f98-11ed-80bf-1239d0255272
+    skip-cert-verify: true
+    sni: gz0.googleusercontent.com
     udp: true
 
   - name: SG OVH - 07.08
